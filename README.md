@@ -1,0 +1,1 @@
+# odoo_technical_training_19
